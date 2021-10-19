@@ -1,0 +1,18 @@
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\bin\deneme.dll.config
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\bin\deneme.dll
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\bin\deneme.pdb
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.dll
+c:\users\berka\onedrive\belgeler\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\bin\deneme.dll.config
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\bin\deneme.dll
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\bin\deneme.pdb
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\berka\OneDrive\Masaüstü\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\bin\deneme.dll.config
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\bin\deneme.dll
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\bin\deneme.pdb
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\obj\Debug\deneme.dll
+C:\Users\berka\OneDrive\Masaüstü\Dersler\Web Tasarımı\Ödevler\175541010-Muhammed Berkay Şahin\175541010-Muhammed Berkay Şahin\deneme\obj\Debug\deneme.pdb
